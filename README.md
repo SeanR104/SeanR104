@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanR104
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning CS1800
+- 🌱 I’m currently learning Computer Architecture, and DSA
 - 💞️ I’m looking to collaborate on Any Projects
 - 📫 How to reach me: seanruda4@gmail.com
 
