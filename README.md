@@ -5,7 +5,7 @@
 </a>
 
 ### About Me
-I am a Computer Science Junior at **Purdue University** minoring in Mathematics. I specialize in building scalable software and applying Machine Learning to real-world data.
+I am a Computer Science Senior at **Purdue University** minoring in Mathematics. I specialize in building scalable software and applying Machine Learning to real-world data.
 
 Currently, I am a **Junior Developer at DELMAR Software**, where I architected a RAG chatbot using LLMs and LanceDB to automate support queries. Previously, I did ML research with the **U.S. Space Force** and led a team as a Scrum Master for **CrowdStrike**, using unsupervised learning for threat detection.
 
